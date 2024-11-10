@@ -6,7 +6,7 @@
 - Dinh Van Kien
 - Nguyen Tran Nghia
 
-![Image Alt Text](assets/Pipeline.png)
+![Image Alt Text](src/assets/Pipeline.png)
 
 
 Check demo at imgs
